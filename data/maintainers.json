@@ -356,6 +356,18 @@
                 "repository": "JeaDsc"
             }
         ]
+    },
+    {
+        "accountName": "dan-hughes",
+        "modules": [
+            {
+                "organization": "dsccommunity",
+                "repository": "RemoteDesktopServicesDsc"
+            },
+            {
+                "organization": "dsccommunity",
+                "repository": "SChannelDsc"
+            }
+        ]
     }
 ]
-
